@@ -1,10 +1,10 @@
-## PORTFOLIO
+### **PORTFOLIO**
 
 I am a full stack developer with an experience of 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react, typescript, java and spring boot for 3 years.
 
 ---
 
-## TECHNICAL SKILLS
+### **TECHNICAL SKILLS**
 
 #### Languages: 
 Java, JavaScript, Typescript, C#.net, Asp.net, Basic Python, C++
@@ -15,7 +15,7 @@ Spring-Boot, REST APIs, MySQL, Postgres SQL, Agile, RDBMS AWS, GitHub, IntelliJ
 
 ---
 
-## EXPERIENCE
+### **EXPERIENCE**
 
 ### **Senior Software Engineer I | John Deere India | June 2021-July 2022** 
   - Leveraging React.js, React Hooks, Typescript, JavaScript to redesign UI framework and Back-end using Spring-Boot, Java.
@@ -36,7 +36,7 @@ Spring-Boot, REST APIs, MySQL, Postgres SQL, Agile, RDBMS AWS, GitHub, IntelliJ
 
 ---
 
-## EDUCATION
+### **EDUCATION**
 
 ### **Vishwakarma Institute of Information Technology**
 #### Bachelor of Engineering, Information Technology (2015- 2019)
@@ -44,12 +44,12 @@ GPA 8.97
 
 ---
 
-## LEADERSHIP EXPERIENCE
+### **LEADERSHIP EXPERIENCE**
 #### Scrum Master (John Deere), Vice-President (Students Forum VIIT), Technical-Head (Blind-Coding VIIT), Event-Head (NGO)
 
 ---
 
-## PROJECTS
+### **PROJECTS**
 
 ### **Concrete Image Analysis using CNN(Research Project) | Final-Year Project | June 2018- Feb 2019**
 - Developed an Android app which captured concrete image and depicted the VSI Index(American standard to determine concrete quality)
