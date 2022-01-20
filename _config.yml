@@ -1,10 +1,11 @@
-title: Priyanka Birajdar
-description:
-Senior Software Engineer I
-<br><br>
-<a href="mailto:piabirajdar@gmail.com">piabirajdar@gmail.com</a>
-<br>
-<a href="https://www.linkedin.com/in/priyankabirajdar">LinkedIn Profile</a>
-<br>
-<a href="https://github.com/piabirajdar">Github</a>
+title: Priyanka Birajdar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Software Engineer I
+  <br><br>
+  <a href="mailto: piabirajdar@gmail.com">piabirajdar@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/priyankabirajdar/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/piabirajdar/">Gihub</a> 
 theme: jekyll-theme-minimal
